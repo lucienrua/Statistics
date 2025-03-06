@@ -1,4 +1,0 @@
-echo "# 统计量的关系" > "统计量的关系.md"
-git add "统计量的关系.md"
-git commit -m "添加 Markdown 文件"
-git push origin main
